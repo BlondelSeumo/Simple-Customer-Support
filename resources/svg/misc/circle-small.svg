@@ -1,0 +1,12 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 320 512"
+    fill="currentColor"
+    aria-hidden="true"
+>
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M320 256c0 88.37-71.63 160-160 160s-160-71.63-160-160s71.63-160 160-160S320 167.6 320 256z"
+    />
+</svg>
